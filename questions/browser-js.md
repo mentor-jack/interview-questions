@@ -35,3 +35,6 @@
 - [Расскажите о `IntersectionObserver`?](https://youtu.be/W1Ye_ekQGS0?t=28)
 - [Расскажите о `URLSearchParams`?](https://youtu.be/W1Ye_ekQGS0?t=98)
 - [Какие есть ограничения у `window.close()`?](https://youtu.be/W1Ye_ekQGS0?t=149)
+- [Как можно создавать пользовательское событие (custom events) в JavaScript?](https://youtu.be/X-7w5YtlnM8?t=277)
+- [Что такое `IndexedDB`? Как работает `IndexedDB`?](https://youtu.be/X-7w5YtlnM8?t=339)
+- [Расскажите о методе `requestAnimationFrame()`?](https://youtu.be/X-7w5YtlnM8?t=419)

@@ -5,6 +5,7 @@
 
 - [Разница между идентификацией, аутентификацией, авторизацией?](https://youtu.be/CFQaZk6iW08?t=735)
 - [Виды аутентификации?](https://youtu.be/CFQaZk6iW08?t=770)
+- [Что такое "распределенная система аутентификации"?](https://youtu.be/yD70CY2hcXo?t=713)
 - [Что такое токены JWT? Как их можно использовать для аутентификации пользователей?](https://youtu.be/tr26varV7eE?t=771)
 - [Что такое безопасные (Secure) и HttpOnly cookies?](https://youtu.be/96CgumhAQXc?t=158)
 - [Что такое Content Security Policy (CSP)?](https://youtu.be/96CgumhAQXc?t=231)
@@ -20,5 +21,4 @@
 - [Как можно защищаться от DDoS-атак (Distributed Denial of Service)?](https://youtu.be/yD70CY2hcXo?t=408)
 - [Как можно защищаться от CSRF-атак (Cross-Site Request Forgery)?](https://youtu.be/yD70CY2hcXo?t=510)
 - [Как можно защищаться от межсайтового скриптинга (XSS)?](https://youtu.be/yD70CY2hcXo?t=597)
-- [Что такое "распределенная система аутентификации"?](https://youtu.be/yD70CY2hcXo?t=713)
 - [Какие меры безопасности следует принять при работе с cookie на стороне клиента?](https://youtu.be/yD70CY2hcXo?t=800)

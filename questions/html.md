@@ -58,6 +58,7 @@
 - [Для чего используют атрибут `novalidate`?](https://youtu.be/RlrDF6FMVMI?t=451)
 - [Для чего используют атрибут `inputmode`?](https://youtu.be/RlrDF6FMVMI?t=512)
 - [Для чего используется атрибут `pattern`?](https://youtu.be/llZ48e5wsXA?t=111)
+- [Что такое и зачем нужен атрибут `rel="nofollow”` в HTML?](https://youtu.be/tr26varV7eE?t=703)
 - [Почему стоит использовать семантические теги в верстке?](https://youtu.be/XLiqSMhqVz0?t=229)
 - [Для чего используется тэг `<label>`?](https://youtu.be/XLiqSMhqVz0?t=338)
 - [Способы улучшения производительности веб-страницы при использовании HTML?](https://youtu.be/5C0mwfobTms?t=162)

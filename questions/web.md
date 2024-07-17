@@ -5,6 +5,7 @@
 
 - [Что такое прогрессивный рендеринг?](https://youtu.be/9WqQ_vj7g5Q?t=26)
 - [Что такое прогрессивный SSR?](https://youtu.be/RlrDF6FMVMI?t=25)
+- [SSR (Server-Side Rendering) и CSR (Client-Side Rendering) плюсы и минусы?](https://youtu.be/tr26varV7eE?t=579)
 - [Что такое Progressive Web Application (PWA)?](https://youtu.be/bUIoSlfGk_k?t=76)
 - [Что такое кроссбраузерность?](https://youtu.be/nDvLckm5jfA?t=90)
 - [Что такое OSI модель?](https://youtu.be/CFQaZk6iW08?t=461)

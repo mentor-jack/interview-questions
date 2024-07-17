@@ -5,6 +5,7 @@
 
 - [Разница между идентификацией, аутентификацией, авторизацией?](https://youtu.be/CFQaZk6iW08?t=735)
 - [Виды аутентификации?](https://youtu.be/CFQaZk6iW08?t=770)
+- [Что такое токены JWT? Как их можно использовать для аутентификации пользователей?](https://youtu.be/tr26varV7eE?t=771)
 - [Что такое безопасные (Secure) и HttpOnly cookies?](https://youtu.be/96CgumhAQXc?t=158)
 - [Что такое Content Security Policy (CSP)?](https://youtu.be/96CgumhAQXc?t=231)
 - [Что такое CORS?](https://youtu.be/5pRRnAItPKg?t=360)

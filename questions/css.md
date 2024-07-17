@@ -53,3 +53,5 @@
 - [Что такое "контейнерные запросы" (container queries)? Как они отличаются от медиазапросов (media queries)?](https://youtu.be/5C0mwfobTms?t=678)
 - [Расскажите о псевдоклассе `:has()`?](https://youtu.be/JO4-23kFHK0?t=428)
 - [Расскажите о медиафункции `prefers-reduced-motion`?](https://youtu.be/JO4-23kFHK0?t=484)
+- [Что такое и как работает CSS Flexbox?](https://youtu.be/tr26varV7eE?t=28)
+- [Расскажите о свойстве `flex` в контексте Flexbox?](https://youtu.be/tr26varV7eE?t=95)

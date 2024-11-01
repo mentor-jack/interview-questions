@@ -31,3 +31,4 @@
 - [Для чего в TypeScript используют ключевое слово `declare`?](https://youtu.be/Tx3GdPpF_94?t=281)
 - [Разница между типами `void`, `never` и `unknown`?](https://youtu.be/KKP6OAgBl40?t=883)
 - [Как вы отлавливаете ошибки в TypeScript коде?](https://youtu.be/nmzYRf53d1I?t=802)
+- [Разница между `any` и `unknown` в TypeScript?](https://youtu.be/T1zl8ptFX1E?t=662)

@@ -13,3 +13,6 @@
 - [Назовите критические этапы рендеринга?](https://youtu.be/XLiqSMhqVz0?t=31)
 - [Разница между layout, painting и compositing?](https://youtu.be/CpxDO1QEzbM?t=209)
 - [Что такое Flash Of Unstyled Content (FOUC)? Как его избежать?](https://youtu.be/CpxDO1QEzbM?t=164)
+- [Почему важно минимизировать количество reflow и repaint в браузере? Как этого достигнуть?](https://youtu.be/T1zl8ptFX1E?t=36)
+- [Как оптимизировать загрузку изображений для улучшения производительности?](https://youtu.be/T1zl8ptFX1E?t=145)
+- [Методы оптимизации загрузки шрифтов?](https://youtu.be/T1zl8ptFX1E?t=220)

@@ -55,3 +55,6 @@
 - [Расскажите о медиафункции `prefers-reduced-motion`?](https://youtu.be/JO4-23kFHK0?t=484)
 - [Что такое и как работает CSS Flexbox?](https://youtu.be/tr26varV7eE?t=28)
 - [Расскажите о свойстве `flex` в контексте Flexbox?](https://youtu.be/tr26varV7eE?t=95)
+- [Что такое BEM и как это помогает в CSS?](https://youtu.be/CkX3nbEHcJ0?t=28)
+- [Особенности, или плюсы Flexbox?](https://youtu.be/CkX3nbEHcJ0?t=96)
+- [Проблемы использования `CSS-in-JS`? Как их решить?](https://youtu.be/CkX3nbEHcJ0?t=178)

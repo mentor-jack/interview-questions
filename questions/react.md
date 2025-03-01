@@ -71,3 +71,4 @@
 - [Как работает пропс `children` в React?](https://youtu.be/tr26varV7eE?t=160)
 - [Что такое обратный поток данных в React?](https://youtu.be/tr26varV7eE?t=211)
 - [Как использовать `React.lazy` и `React.Suspense` для запуска кода приложения?](https://youtu.be/tr26varV7eE?t=281)
+- [Что такое "Hydration" в контексте серверного-рендеренга React-приложений?](https://youtu.be/WYkq3E_bMsQ?t=567)

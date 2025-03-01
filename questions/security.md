@@ -25,3 +25,5 @@
 - [Подходы для междоменных запросов в JavaScript?](https://youtu.be/CkX3nbEHcJ0?t=511)
 - [Лучшие практики при работе с веб-хранилищем?](https://youtu.be/CkX3nbEHcJ0?t=632)
 - [Что такое SRI (Subresource Integrity)? Как его использовать для улучшения безопасности?](https://youtu.be/CkX3nbEHcJ0?t=736)
+- [Что такое обфускация кода? Зачем она может быть использована в JavaScript проектах?](https://youtu.be/WYkq3E_bMsQ?t=442)
+- [Разница между обфускацией и минификацией кода?](https://youtu.be/WYkq3E_bMsQ?t=514)

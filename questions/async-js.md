@@ -24,3 +24,4 @@
 - [Что такое `fetch()`? Как работает функция `fetch()`?](https://youtu.be/X-7w5YtlnM8?t=713)
 - [Что такое JSON в JavaScript? Как его можно использовать?](https://youtu.be/X-7w5YtlnM8?t=786)
 - [Что такое и как работает коэффициент сжатия (compression ratio) в контексте веб-разработки?](https://youtu.be/X-7w5YtlnM8?t=835)
+- [Как работает setTimeout с нулевым таймером (0 ms)?](https://youtu.be/Z_j6XRvaq5k?t=802)

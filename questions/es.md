@@ -40,3 +40,4 @@
 - [Как работают дефолтные параметры в ES6?](https://youtu.be/X-7w5YtlnM8?t=507)
 - [Что такое `BigInt` в ES2020 и для чего он используется?](https://youtu.be/X-7w5YtlnM8?t=562)
 - [Какие нововведения были представлены в ECMAScript 2021 (ES12)?](https://youtu.be/X-7w5YtlnM8?t=634)
+- [Разница между `for...of` и `for...in`?](https://youtu.be/Z_j6XRvaq5k?t=755)

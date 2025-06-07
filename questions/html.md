@@ -66,3 +66,8 @@
 - [Для чего используется атрибут `capture`?](https://youtu.be/JO4-23kFHK0?t=376)
 - [Опишите процесс валидации форм в HTML5?](https://youtu.be/WYkq3E_bMsQ?t=26)
 - [Плюсы и минусы использования `<iframe>`?](https://youtu.be/WYkq3E_bMsQ?t=120)
+- [Какие проблемы могут возникать при использовании `<div>` вместо семантических элементов?](https://youtu.be/Z_j6XRvaq5k?t=25)
+- [Для чего используется атрибут `autofocus`? Где он применяется?](https://youtu.be/Z_j6XRvaq5k?t=128)
+- [Для чего используются `<noscript>` и `<script>` в HTML?](https://youtu.be/Z_j6XRvaq5k?t=174)
+- [Для чего используется тэг `<dialog>` в HTML?](https://youtu.be/Z_j6XRvaq5k?t=235)
+- [Чем отличается `<iframe>` от `<embed>`?](https://youtu.be/Z_j6XRvaq5k?t=297)

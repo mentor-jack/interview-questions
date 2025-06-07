@@ -58,3 +58,6 @@
 - [Что такое BEM и как это помогает в CSS?](https://youtu.be/CkX3nbEHcJ0?t=28)
 - [Особенности, или плюсы Flexbox?](https://youtu.be/CkX3nbEHcJ0?t=96)
 - [Проблемы использования `CSS-in-JS`? Как их решить?](https://youtu.be/CkX3nbEHcJ0?t=178)
+- [Расскажите о свойстве `will-change`?](https://youtu.be/Z_j6XRvaq5k?t=371)
+- [Как работают каскадность и наследование в CSS?](https://youtu.be/Z_j6XRvaq5k?t=432)
+- [Как работают `transition` и `animation`, и в чем их отличия?](https://youtu.be/Z_j6XRvaq5k?t=526)

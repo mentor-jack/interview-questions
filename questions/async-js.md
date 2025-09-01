@@ -25,3 +25,4 @@
 - [Что такое JSON в JavaScript? Как его можно использовать?](https://youtu.be/X-7w5YtlnM8?t=786)
 - [Что такое и как работает коэффициент сжатия (compression ratio) в контексте веб-разработки?](https://youtu.be/X-7w5YtlnM8?t=835)
 - [Как работает setTimeout с нулевым таймером (0 ms)?](https://youtu.be/Z_j6XRvaq5k?t=802)
+- [Что делает `Promise.finally()`? Сценарий его применения?](https://youtu.be/CF8y-1EsSV4?t=510)
